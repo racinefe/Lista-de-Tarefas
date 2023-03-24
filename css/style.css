@@ -7,7 +7,7 @@
     box-sizing: border-box;
 }
 body {
-    background-image: url("../img/111.jpg");
+    background-image: url("../img/2.jpg");
     background-position: center;
     /*background-size: cover;*/
 }
@@ -46,7 +46,7 @@ input, select{
 /* ToDo hader */
 .todo-container{
     max-width: 450px;
-    margin: 3rem auto ;
+    margin: 10rem auto ;
     background-color: #fdfdfd;
     padding: 1.5rem;
     border-radius: 15px;

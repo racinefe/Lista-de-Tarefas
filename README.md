@@ -28,11 +28,11 @@ Lista de Tarefas utilizando JavaScript para manipular o DOM e armazenar dados lo
 
 ![azaz](https://cdn.discordapp.com/attachments/1089186196858622065/1089252156063891517/bnts.gif#vitrinedev)
 
-<h4>★Canpo para pesquisar as tarefas já criadas</h4>
+<h4>★Campo para pesquisar as tarefas já criadas</h4>
 
 ![azaz](https://cdn.discordapp.com/attachments/1089186196858622065/1089252156760133653/pesquisa.gif#vitrinedev)
 
-<h4>★Canpo para filtar as tarefas</h4>
+<h4>★Campo para filtar as tarefas</h4>
 
 ![azaz](https://cdn.discordapp.com/attachments/1089186196858622065/1089252156403634226/filtros.gif#vitrinedev)
 

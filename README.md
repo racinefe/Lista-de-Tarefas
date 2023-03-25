@@ -12,7 +12,16 @@ Lista de Tarefas utilizando JavaScript para manipular o DOM e armazenar dados lo
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://cdn.discordapp.com/attachments/1089186196858622065/1089251770477330482/tela_de_inicio.PNG#vitrinedev)
 
-## Detalhes do projeto
+
+
+ 
+<h2>★Detalhes do projeto 
+<div ><a href="https://github.com/racinefe"><img align="" height="180em" src="https://cdn.discordapp.com/attachments/1089186196858622065/1089257120328863905/44.gif"/>
+</div>
+</h2>
+
+ 
+
 
 <h4>Campo para adicionar tarefas</h4>
 

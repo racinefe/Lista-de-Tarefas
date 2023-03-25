@@ -15,27 +15,24 @@ Lista de Tarefas utilizando JavaScript para manipular o DOM e armazenar dados lo
 
 
  
-<h2>★Detalhes do projeto 
-<div ><a href="https://github.com/racinefe"><img align="" height="180em" src="https://cdn.discordapp.com/attachments/1089186196858622065/1089257120328863905/44.gif"/>
-</div>
-</h2>
+<h2>📑Detalhes do projeto</h2>
 
  
 
 
-<h4>Campo para adicionar tarefas</h4>
+<h4>★Campo para adicionar tarefas</h4>
 
 ![azaz](https://cdn.discordapp.com/attachments/1089186196858622065/1089252155766100028/addTarefa.PNG#vitrinedev)
 
-<h4>Botoes para conclusão, edição e apagar tarefa</h4>
+<h4>★Botoes para conclusão, edição e apagar tarefa</h4>
 
 ![azaz](https://cdn.discordapp.com/attachments/1089186196858622065/1089252156063891517/bnts.gif#vitrinedev)
 
-<h4>Canpo para pesquisar as tarefas já criadas</h4>
+<h4>★Canpo para pesquisar as tarefas já criadas</h4>
 
 ![azaz](https://cdn.discordapp.com/attachments/1089186196858622065/1089252156760133653/pesquisa.gif#vitrinedev)
 
-<h4>Canpo para filtar as tarefas</h4>
+<h4>★Canpo para filtar as tarefas</h4>
 
 ![azaz](https://cdn.discordapp.com/attachments/1089186196858622065/1089252156403634226/filtros.gif#vitrinedev)
 

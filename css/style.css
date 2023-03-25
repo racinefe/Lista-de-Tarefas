@@ -7,9 +7,9 @@
     box-sizing: border-box;
 }
 body {
-    background-image: url("../img/2.jpg");
+    background-image: url("../img/6.jpg");
     background-position: center;
-    /*background-size: cover;*/
+    /*background-size:cover;*/
 }
 button{
     background-color: #fdfdfd;
